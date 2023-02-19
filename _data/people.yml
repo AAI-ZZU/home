@@ -13,10 +13,10 @@
 
 liuqidong:
     display_name: "Qidong Liu"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    webpage: "http://www7.zzu.edu.cn/csai/info/1054/1259.htm"
     github: profx
     role: faculty
-    image: /img/people/prof-x.png
+    image: /img/people/liuqidong.png
     bio: 刘起东
 
 scott:
@@ -38,58 +38,68 @@ wolverine:
 #     role: grad
 #     image: /img/people/storm.png
 
-yaoenguan:
+yaoenguang:
     display_name: "Enguang Yao"
     role: grad
     bio: 姚恩广
+    image: /img/people/yaoenguang.jpg
 
 liuchaoyue:
     display_name: "Chaoyue Liu"
     role: grad
     bio: 刘超越
+    image: /img/people/liuchaoyue.jpg
 
 qiuzixin:
     display_name: "Zixin Qiu"
     role: grad
     bio: 邱紫鑫
-gaoxiaofen:
+    image: /img/people/qiuzixin.jpg
+
+gaoxiaofeng:
     display_name: "Xiaofeng Gao"
     role: grad
     bio: 高晓峰
+    image: /img/people/gaoxiaofeng.jpg
 
 niushaoyao:
     display_name: "Shaoyao Niu"
     role: grad
     bio: 牛绍尧
+    image: /img/people/niushaoyao.jpg
 
 lixiaowen:
     display_name: "Xiaowen Li"
     role: grad
     bio: 李晓雯
+    image: /img/people/lixiaowen.jpg
 
 hewenxuan:
     display_name: "Wenxuan He"
     role: grad
     bio: 何文轩
+    image: /img/people/hewenxuan.jpg
 
 zhangshilin:
     display_name: "Shilin Zhang"
     role: grad
     bio: 张仕林
+    image: /img/people/zhangshilin.jpg
 
 shenxin:
     display_name: "Xin Shen"
     role: grad
     bio: 申昕
+    image: /img/people/shenxin.jpg
 
-grad-i:
-    display_name: "Grad I"
-    role: grad
+# grad-i:
+#     display_name: "Grad I"
+#     role: grad
 
-alum-a:
-    display_name: "Alum A"
+qishuchang:
+    display_name: "Shuchang Qi"
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    bio: "祁舒畅, 2022届硕士"
 
 alum-b:
     display_name: "Alum B With Way Longer Name"
@@ -124,34 +134,61 @@ alum-i:
     display_name: "Alum I"
     role: alum
 
+
+# 悉尼大学陶大程教授；
+# 南洋理工大学Zhang Jie教授；
+# 南洋理工大学Long Cheng副教授；
+# 南洋理工大学Zhou Xin研究员；
+# 大阪大学Shigeo Matsubara教授；
+# 兰州大学刘冀钊副教授；
+# 电子科技大学符明晟副研究员；
+
 collab-a:
-    display_name: "Collaborator A"
+    display_name: "Dacheng Tao"
     role: collab
+    bio: "悉尼大学陶大程教授"
 
 collab-b:
-    display_name: "Collaborator B With Long Name"
+    display_name: "Jie Zhang"
     role: collab
+    bio: "南洋理工大学Zhang Jie教授"
 
 collab-c:
-    display_name: "Collaborator C"
+    display_name: "Long Cheng"
     role: collab
+    bio: "南洋理工大学Long Cheng副教授"
 
 collab-d:
-    display_name: "Collaborator D"
+    display_name: "Xin Zhou"
     role: collab
+    bio: "南洋理工大学Zhou Xin研究员"
 
 collab-e:
-    display_name: "Collaborator E"
+    display_name: "Shigeo Matsubara"
     role: collab
+    bio: "大阪大学Shigeo Matsubara教授"
+
+collab-f:
+    display_name: "Jizhao Liu"
+    role: collab
+    bio: "兰州大学刘冀钊副教授"
+
+collab-g:
+    display_name: "Mingsheng Fu"
+    role: collab
+    bio: "电子科技大学符明晟副研究员"
+
+
 
 gaofei:
     display_name: "Fei Gao"
     role: ugrad
     bio: 高飞
 
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
+lidongyang:
+    display_name: "Dongyang Li"
     role: ugrad
+    bio: 李东洋
 
 ugrad-c:
     display_name: "Ugrad C"

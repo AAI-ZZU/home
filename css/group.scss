@@ -71,15 +71,16 @@ ul.news {
     }
 }
 
+
 @media (min-width: 576px) {
-    .project-people { column-count: 2 }
-    .card-columns   { column-count: 2 }
+    .project-people { column-count: 2 } 
+    .card-columns   { column-count: 1 }
 }
 
 @media (min-width: 768px) {
-    .role.grad      { column-count: 2 }
-    .project-people { column-count: 3 }
-    .card-columns   { column-count: 3 }
+    .role.grad      { column-count: 2 } /*会修改people列表占几列*/
+    .project-people { column-count: 3 } /*会修改project内people列表占几列*/
+    .card-columns   { column-count: 2 } /*会修改主页project列表占几列*/
 }
 
 .title img {
