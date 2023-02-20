@@ -34,7 +34,7 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: 'https://aai-zzu.github.io/home'
+# base: 'https://aai-zzu.github.io/home'
 # local 
 # base: ''
 # make pages for the _projects folder
