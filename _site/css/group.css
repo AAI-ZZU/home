@@ -65,7 +65,7 @@ ul.news > li {
     column-count: 2;
   }
   .card-columns {
-    column-count: 1;
+    column-count: 2;
   }
 }
 @media (min-width: 768px) {
@@ -76,8 +76,8 @@ ul.news > li {
     column-count: 3;
   } /*会修改project内people列表占几列*/
   .card-columns {
-    column-count: 2;
-  } /*会修改主页project列表占几列*/
+    column-count: 3;
+  } /*会修改主页project列表占几列，这实际是bootstrap的瀑布流卡片组，在卡片多且高度不固定时效果很好，如果搭配卡片颜色变化效果会更好*/
 }
 .title img {
   max-width: 50%;

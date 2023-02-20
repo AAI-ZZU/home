@@ -1,5 +1,5 @@
 name: AAI@ZZU Research Group
-url: http://awesome.example.edu
+# url: http://awesome.example.edu
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -12,11 +12,13 @@ permalink: /blog/:year/:month/:day/:title.html
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: Teacher
-  - key: staff
-    name: Staff
-  - key: postdoc
-    name: Researchers
+    name: Professors
+  # - key: staff
+  #   name: Staff
+  # - key: postdoc
+  #   name: Researchers
+  - key: doct
+    name: Doctoral Students
   - key: grad
     name: Graduate Students
   - key: ugrad
@@ -50,5 +52,5 @@ navigation:
     link: /research.html
   - title: Publications
     link: /publications.html
-  - title: Code
+  - title: Additional
     link: /code.html

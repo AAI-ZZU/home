@@ -19,18 +19,18 @@ liuqidong:
     image: /img/people/liuqidong.png
     bio: 刘起东
 
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
+# scott:
+#     display_name: "Scott Summers"
+#     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+#     role: staff
+#     image: /img/people/scott.png
+#     bio: aka Cyclops
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
+# wolverine:
+#     display_name: "Wolverine"
+#     webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+#     github: wolverine
+#     role: postdoc
 
 # storm:
 #     display_name: "Storm"
@@ -40,7 +40,7 @@ wolverine:
 
 yaoenguang:
     display_name: "Enguang Yao"
-    role: grad
+    role: doct
     bio: 姚恩广
     image: /img/people/yaoenguang.jpg
 
@@ -101,38 +101,38 @@ qishuchang:
     role: alum
     bio: "祁舒畅, 2022届硕士"
 
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
+# alum-b:
+#     display_name: "Alum B With Way Longer Name"
+#     role: alum
 
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
+# alum-c:
+#     display_name: "Alum C"
+#     role: alum
+#     webpage: "https://www.google.com"
 
-alum-d:
-    display_name: "Alum D"
-    role: alum
+# alum-d:
+#     display_name: "Alum D"
+#     role: alum
 
-alum-e:
-    display_name: "Alum E"
-    role: alum
+# alum-e:
+#     display_name: "Alum E"
+#     role: alum
 
-alum-f:
-    display_name: "Alum F"
-    role: alum
+# alum-f:
+#     display_name: "Alum F"
+#     role: alum
 
-alum-g:
-    display_name: "Alum G"
-    role: alum
+# alum-g:
+#     display_name: "Alum G"
+#     role: alum
 
-alum-h:
-    display_name: "Alum H"
-    role: alum
+# alum-h:
+#     display_name: "Alum H"
+#     role: alum
 
-alum-i:
-    display_name: "Alum I"
-    role: alum
+# alum-i:
+#     display_name: "Alum I"
+#     role: alum
 
 
 # 悉尼大学陶大程教授；
@@ -187,25 +187,25 @@ gaofei:
 
 lidongyang:
     display_name: "Dongyang Li"
-    role: ugrad
+    role: ugrad-alum
     bio: 李东洋
 
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
+# ugrad-c:
+#     display_name: "Ugrad C"
+#     role: ugrad
 
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
+# ugrad-d:
+#     display_name: "Ugrad D"
+#     role: ugrad
 
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
+# ugrad-e:
+#     display_name: "Ugrad E"
+#     role: ugrad
 
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
+# ugrad-alum-a:
+#     display_name: "Past Ugrad A"
+#     role: ugrad-alum
 
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
+# ugrad-alum-b:
+#     display_name: "Past Ugrad Student B With Long Name"
+#     role: ugrad-alum

@@ -1,9 +1,17 @@
 ---
 layout: default
-title: Code
 ---
-This is an example of an additional page you could add to the site (and its navigation).
+**联系我们:**
 
-If you like this template, find our group's other code here:
+ * 公共邮箱：***zzu.aai.group@gmail.com***
+ * 刘起东老师邮箱：***ieqdliu@zzu.edu.cn***
+ * [github 主页](https://github.com/AAI-ZZU)
 
- * [uwsampa on GitHub](https://github.com/uwsampa/)
+**Code:**
+
+- [Source code](https://github.com/farkguidao/M2GCN) for the paper ***"M2GCN: Multi-Modal Graph Convolutional Network for Polypharmacy Side Effects Discovery"***
+- [Source code](https://github.com/Qidong-Liu/Aspect-Aware-Graph-Attention-Network) for the paper ***"Aspect-Aware Graph Attention Network for Heterogeneous Information Networks"***
+
+**本站维护人员：**
+
+- 刘超越
