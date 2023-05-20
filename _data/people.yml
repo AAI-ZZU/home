@@ -91,6 +91,26 @@ shenxin:
     role: grad
     bio: 申昕
     image: /img/people/shenxin.jpg
+houjiajia:
+    display_name: "Jiajia Hou"
+    role: grad
+    bio: 侯佳佳
+    image: /img/people/houjiajia.jpg
+lianjiurui:
+    display_name: "Jiurui Lian"
+    role: grad
+    bio: 连久瑞
+    image: /img/people/lianjiurui.jpg
+zhanchuang:
+    display_name: "Chuang Zhan"
+    role: grad
+    bio: 展闯
+    image: /img/people/zhanchuang.jpg
+gaofei:
+    display_name: "Fei Gao"
+    role: grad
+    bio: 高飞
+    image: /img/people/gaofei.jpg
 
 # grad-i:
 #     display_name: "Grad I"
@@ -180,10 +200,10 @@ collab-g:
 
 
 
-gaofei:
-    display_name: "Fei Gao"
-    role: ugrad
-    bio: 高飞
+# gaofei:
+#     display_name: "Fei Gao"
+#     role: ugrad
+#     bio: 高飞
 
 lidongyang:
     display_name: "Dongyang Li"
