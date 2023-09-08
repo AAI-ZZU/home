@@ -50,12 +50,6 @@ liuchaoyue:
     bio: 刘超越
     image: /img/people/liuchaoyue.jpg
 
-qiuzixin:
-    display_name: "Zixin Qiu"
-    role: grad
-    bio: 邱紫鑫
-    image: /img/people/qiuzixin.jpg
-
 gaoxiaofeng:
     display_name: "Xiaofeng Gao"
     role: grad
@@ -120,6 +114,11 @@ qishuchang:
     display_name: "Shuchang Qi"
     role: alum
     bio: "祁舒畅, 2022届硕士"
+qiuzixin:
+    display_name: "Zixin Qiu"
+    role: alum
+    bio: "邱紫鑫, 2023届硕士"
+    image: /img/people/qiuzixin.jpg
 
 # alum-b:
 #     display_name: "Alum B With Way Longer Name"
@@ -208,7 +207,7 @@ collab-g:
 lidongyang:
     display_name: "Dongyang Li"
     role: ugrad-alum
-    bio: 李东洋
+    bio: 李东洋(本科生)，南方科技大学研究生
 
 # ugrad-c:
 #     display_name: "Ugrad C"
